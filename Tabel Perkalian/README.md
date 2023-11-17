@@ -7,5 +7,5 @@ MyLibrary adalah sebuah library sederhana untuk melakukan perhitungan perkalian 
 Anda dapat menginstal library ini menggunakan pip:
 
 ```bash
-pip install mylibrary
+pip install tabelperkalian
 ```
